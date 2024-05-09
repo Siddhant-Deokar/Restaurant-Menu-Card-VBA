@@ -1,2 +1,2 @@
 # Restaurant-Menu-Card-VBA
-Created a Menu card for a restaurant where the customer can simoly choose the items  to order. This way there is not need of a person to take order from the customer.
+Created a Menu card for a restaurant where the customer can simply choose the items  to order. This way, there is no need of a person to take orders from the customers.
